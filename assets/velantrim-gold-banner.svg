@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Велантрим — культура, память и живая Земля</title>
+  <desc id="desc">Тёмно-зелёный книжный титул с крупной золотой надписью и двойной металлической рамкой.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1b8"/>
+      <stop offset="0.18" stop-color="#d7b65b"/>
+      <stop offset="0.38" stop-color="#fff5ca"/>
+      <stop offset="0.58" stop-color="#a97923"/>
+      <stop offset="0.76" stop-color="#f1d47a"/>
+      <stop offset="1" stop-color="#8b651f"/>
+    </linearGradient>
+    <radialGradient id="paper" cx="50%" cy="35%" r="85%">
+      <stop offset="0" stop-color="#233629"/>
+      <stop offset="1" stop-color="#0b130f"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#paper)"/>
+  <rect x="19" y="19" width="1242" height="322" rx="16" fill="none" stroke="url(#gold)" stroke-width="5"/>
+  <rect x="31" y="31" width="1218" height="298" rx="12" fill="none" stroke="#b58b38" stroke-opacity="0.72" stroke-width="1.5"/>
+  <path d="M57 83h145m-145 0 18-18m-18 18 18 18M1223 83h-145m145 0-18-18m18 18-18 18M57 277h145m-145 0 18-18m-18 18 18 18M1223 277h-145m145 0-18-18m18 18-18 18" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <text x="640" y="142" text-anchor="middle" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="8">ВЕЛАНТРИМ</text>
+  <path d="M400 174h150m180 0h150" fill="none" stroke="url(#gold)" stroke-width="1.6"/>
+  <text x="640" y="181" text-anchor="middle" fill="#f3df9e" font-family="Georgia, 'Times New Roman', serif" font-size="22">✦</text>
+  <text x="640" y="228" text-anchor="middle" fill="#e9dfc2" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="4">КУЛЬТУРА · ПАМЯТЬ · ЖИВАЯ ЗЕМЛЯ</text>
+  <text x="640" y="276" text-anchor="middle" fill="#c4a957" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="3">CODEX CULTURAE · ECOLOGY · LORE</text>
+  <text x="102" y="145" text-anchor="middle" fill="url(#gold)" font-size="24">✥</text>
+  <text x="1178" y="145" text-anchor="middle" fill="url(#gold)" font-size="24">✥</text>
+  <text x="102" y="290" text-anchor="middle" fill="url(#gold)" font-size="19">❧</text>
+  <text x="1178" y="290" text-anchor="middle" fill="url(#gold)" font-size="19">❧</text>
+</svg>
